@@ -4,11 +4,6 @@
 
 <h1 align="center">HolbertonBnB</h1>
 <p align="center">An AirBnB clone.</p>
-
-<p align="center">
-  <img src="https://github.com/ahmedalawar/AirBnB_clone/blob/master/hbnb_logo.png" alt="HolbertonBnB logo">
-</p>
-
 ---
 
 ## Description :house:
